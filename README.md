@@ -25,9 +25,3 @@
 <img src="https://raw.githubusercontent.com/MarcselloDev/MarcselloDev/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MarcselloDev/count.svg?"  />
-</div>
-
-###
